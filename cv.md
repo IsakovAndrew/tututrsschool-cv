@@ -16,3 +16,12 @@ I am 33 years old, I work in the construction industry. A cheerful and hardworki
 - Git
 - JS
 - Figma
+
+# **Code Example**
+
+```
+function capitalizeWord(word) {
+    return (word[0].toUpperCase()+word.slice(1));
+}
+```
+

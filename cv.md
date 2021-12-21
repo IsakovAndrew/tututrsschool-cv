@@ -25,3 +25,18 @@ function capitalizeWord(word) {
 }
 ```
 
+## **Expiriences**
+
+-
+
+## **Education**
+
+- **Courses** Rs School "JS/Front-end" _(in progress)_
+- **Courses** Ripo "Builder"
+- **Courses** Atlant "CNC Operator"
+- **Courses** Atlant "Lockmith MSR"
+- **Courses** Ripo "Locksmith for car repair and storage"
+
+## **English Level**
+
+- A2
